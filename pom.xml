@@ -46,7 +46,8 @@
 	</build>
 	
 	<scm>
-		<developerConnection>scm:git:git@github.com:SachinSharmaa/sachin-petclinic.git</developerConnection>
+		<url>https://github.com/SachinSharmaa/sachin-petclinic.git</url>
+        <connection>scm:git:https://github.com/SachinSharmaa/sachin-petclinic.git</connection>
 		<tag>HEAD</tag>
 	</scm>
 </project>
