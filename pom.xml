@@ -9,13 +9,16 @@
 		<version>2.2.1.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
+	
 	<groupId>com.sachin</groupId>
 	<artifactId>pet-clinic</artifactId>
+	
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
 		<module>pet-clinic-data</module>
 		<module>pet-clinic-web</module>
 	</modules>
+	
 	<name>pet-clinic</name>
 	<description>Demo project for Spring Boot</description>
 	<packaging>pom</packaging>
