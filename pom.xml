@@ -11,7 +11,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<scm>
-		<developerConnection>scm:git:https://github.com/SachinSharmaa/sachin-petclinic.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:SachinSharmaa/sachin-petclinic.git</developerConnection>
 		<tag>pet-clinic-0.0.1</tag>
 	</scm>
 	<groupId>com.sachin</groupId>
