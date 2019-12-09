@@ -40,6 +40,8 @@
 				<configuration>
 					<goals>install</goals>
 					<autoVersionSubModules>true</autoVersionSubModules>
+					 <localCheckout>true</localCheckout>
+        			 <pushChanges>false</pushChanges>
 				</configuration>
 			</plugin>
 		</plugins>
