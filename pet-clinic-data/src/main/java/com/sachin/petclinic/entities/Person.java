@@ -1,12 +1,10 @@
 package com.sachin.petclinic.entities;
 
-import lombok.Data;
-
 /**
  * @author Sachin Sharma
  */
-@Data
-public class Person {
+
+public class Person extends BaseEntity {
 
 	private String firstName;
 	private String lastName;

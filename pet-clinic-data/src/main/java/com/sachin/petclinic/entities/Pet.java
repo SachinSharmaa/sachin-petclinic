@@ -2,13 +2,11 @@ package com.sachin.petclinic.entities;
 
 import java.time.LocalDate;
 
-import lombok.Data;
-
 /**
  * @author Sachin Sharma
  */
-@Data
-public class Pet {
+
+public class Pet extends BaseEntity {
 
 	private PetType petType;
 	private Owner owner;
