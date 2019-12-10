@@ -14,7 +14,7 @@
 	<groupId>com.sachin</groupId>
 	<artifactId>pet-clinic</artifactId>
 
-	<version>0.0.1</version>
+	<version>0.0.1.snapshot</version>
 	<modules>
 		<module>pet-clinic-data</module>
 		<module>pet-clinic-web</module>
