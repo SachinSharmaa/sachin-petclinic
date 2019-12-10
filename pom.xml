@@ -12,7 +12,7 @@
 	<groupId>com.sachin</groupId>
 	<artifactId>pet-clinic</artifactId>
 
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<modules>
 		<module>pet-clinic-data</module>
 		<module>pet-clinic-web</module>
@@ -46,6 +46,6 @@
 	<scm>
 		<url>https://github.com/SachinSharmaa/sachin-petclinic.git</url>
         <connection>scm:git:https://github.com/SachinSharmaa/sachin-petclinic.git</connection>
-		<tag>0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 </project>
